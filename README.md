@@ -8,7 +8,7 @@ I'm Dong-ha Kim, a Data Scientist with a passion for leveraging data to understa
 
 - 👯 **I’m looking to collaborate on:** Projects that involve applying data-driven insights to technology roadmapping, competitive landscape analysis, and innovation strategies, with an interest in both academic research and practical applications. I'm particularly interested in contributing to projects that analyze patent and academic literature data.
 
-- 🤔 **I’m looking for help with:** Exploring advanced techniques in graph and network analysis for technology intelligence, and open to insights on effectively combining quantitative data analysis with qualitative expert knowledge in the creation of impactful technology roadmaps.
+- 🤔 **I’m looking for help with:** Exploring advanced techniques in graph and network analysis for technology intelligence, Open source LLM, RAG and Agent AI System. Open to insights on effectively combining quantitative data analysis with qualitative expert knowledge in the creation of impactful technology roadmaps.
 
 - 💬 **Ask me about:** Data science applications in technology management, technology roadmapping methodologies, patent analysis, competitive intelligence, and technology trend forecasting. Also feel free to reach out if you'd like to chat about the intersection of data analysis with R&D strategy.
 
@@ -22,7 +22,7 @@ I'm Dong-ha Kim, a Data Scientist with a passion for leveraging data to understa
 
 **Core Expertise:**
 
-*   **Data Science**: Statistical analysis, machine learning, data mining, and predictive modeling.
+*   **Data Science**: Statistical analysis, data mining, predictive modeling.
 *   **Data Analysis**: Patent analysis, technology trend forecasting, and competitive landscape analysis using various data sources.
 *   **Technology Roadmapping**: Experience with planning, executing and facilitating the development of technology roadmaps.
 *   **Programming**: Experience with Python, R and related data manipulation and analysis libraries.
